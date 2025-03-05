@@ -14,7 +14,7 @@ This repository provides tools and scripts designed to automate and streamline i
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.11.3
 - Required Python packages (can be installed via `requirements.txt`)
 
 ### Installation
