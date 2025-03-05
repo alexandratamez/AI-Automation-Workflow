@@ -16,9 +16,3 @@ This repository provides tools and scripts designed to automate and streamline i
 ### Prerequisites
 - Python 3.11.3
 - Required Python packages (can be installed via `requirements.txt`)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AI-Automation-Workflow.git
-   cd AI-Automation-Workflow
