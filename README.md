@@ -4,7 +4,7 @@
 This project demonstrates the integration of an AI-powered workflow automation tool for a **Digital Marketing Company**. The solution addresses workflow inefficiencies, enabling the agency to scale and optimize marketing campaigns across multiple platforms like Google Ads, Meta Ads, LinkedIn, and HubSpot.
 
 ## Client Description
-**Digital Marketing Company ** is a digital marketing agency focused on managing multi-channel campaigns for e-commerce brands, SaaS companies, and retail businesses. They rely on a variety of advertising platforms, CRMs, and analytics tools to track and optimize marketing performance.
+** Digital Marketing Company ** is a digital marketing agency focused on managing multi-channel campaigns for e-commerce brands, SaaS companies, and retail businesses. They rely on a variety of advertising platforms, CRMs, and analytics tools to track and optimize marketing performance.
 
 ## Pain Points Addressed
 Despite their success, Digital Marketing Company faced the following challenges:
